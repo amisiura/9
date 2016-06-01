@@ -1,0 +1,7 @@
+.tt {
+    background-color: red;
+    border: 1px solid red;
+    width: 900px;
+    height: 1000px;
+    z-index: 10;
+}
